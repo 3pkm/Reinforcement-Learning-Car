@@ -17,22 +17,17 @@ An end-to-end, high-performance Reinforcement Learning platform for autonomous r
 ### 1. Swarm Reinforcement Learning Training (Multi-Agent Fleet Exploration)
 Watch the swarm training pipeline with hundreds of autonomous cars exploring trajectories across procedural tracks simultaneously:
 
-https://github.com/user-attachments/assets/Swarm_Training.mp4
-
-> *Local repository video:* [`ScreenShots/Swarm_Training.mp4`](ScreenShots/Swarm_Training.mp4)
-
-<video src="./ScreenShots/Swarm_Training.mp4" autoplay loop muted playsinline controls width="100%"></video>
+> *Local repository video:* 
+![Swarm_Training](./ScreenShots/Swarm_Training.gif)
 
 ---
 
 ### 2. Autonomous Policy Evaluation & Testing
 Trained PPO agent navigating complex turns and completing laps smoothly on unseen procedural tracks:
 
-https://github.com/user-attachments/assets/Testing.mp4
+> *Local repository video:* 
+![Testing](./ScreenShots/Testing.gif)
 
-> *Local repository video:* [`ScreenShots/Testing.mp4`](ScreenShots/Testing.mp4)
-
-<video src="ScreenShots/Testing.mp4" autoplay loop muted playsinline controls width="100%"></video>
 
 ---
 
